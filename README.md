@@ -8,26 +8,7 @@
 
 ## Install package 
 ~~~
-sudo apt-get install ros-melodic-joy 
-sudo apt-get install ros-melodic-teleop-twist-joy
-sudo apt-get install ros-melodic-teleop-twist-keyboard
-sudo apt-get install ros-melodic-laser-proc
-sudo apt-get install ros-melodic-rgbd-launch
-sudo apt-get install ros-melodic-depthimage-to-laserscan
-sudo apt-get install ros-melodic-rosserial-Arduino
-sudo apt-get install ros-melodic-rosserial-python
-sudo apt-get install ros-melodic-rosserial-server
-sudo apt-get install ros-melodic-rosserial-client
-sudo apt-get install ros-melodic-rosserial-msgs
-sudo apt-get install ros-melodic-amcl
-sudo apt-get install ros-melodic-map-server
-sudo apt-get install ros-melodic-move-base
-sudo apt-get install ros-melodic-urdf
-sudo apt-get install ros-melodic-xacro
-sudo apt-get install ros-melodic-compressed-image-transport
-sudo apt-get install ros-melodic-rqt-image-view
-sudo apt-get install ros-melodic-gmapping
-sudo apt-get install ros-melodic-navigation
+sudo apt-get install ros-melodic-joy ros-melodic-teleop-twist-joyros-melodic-teleop-twist-keyboardros-melodic-laser-proc ros-melodic-rgbd-launchros-melodic-depthimage-to-laserscanros-melodic-rosserial-Arduinoros-melodic-rosserial-python ros-melodic-rosserial-server ros-melodic-rosserial-client ros-melodic-rosserial-msgs ros-melodic-amcl ros-melodic-map-server ros-melodic-move-base install ros-melodic-urdf ros-melodic-xacro ros-melodic-compressed-image-transport ros-melodic-rqt-image-view ros-melodic-gmapping ros-melodic-navigation
 ~~~
 
 
