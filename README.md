@@ -64,7 +64,7 @@ roslaunch turtlebot3_teleop turtlebot3_teleop_key.launch
 ~~~
 * Map output
 ~~~
-rosrun map_server map_saver -f ~/map
+rosrun map_server map_saver -f ./map
 ~~~
 
 
