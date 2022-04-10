@@ -78,6 +78,6 @@ roslaunch turtlebot3_gazebo turtlebot3_world.launch
 ~~~
 
 ~~~
-roslaunch turtlebot3_navigation turtlebot3_navigation.launch map_file:=$HOME/map.yaml
+roslaunch turtlebot3_navigation turtlebot3_navigation.launch map_file:=$HOME/lab-challenge-2-3-techapostle/map.yaml
 ~~~
 
