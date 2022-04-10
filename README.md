@@ -15,7 +15,7 @@ sudo apt-get install ros-melodic-joy ros-melodic-teleop-twist-joy ros-melodic-te
 ~~~
 git clone https://github.com/techapostle/turtlebot3-slam-tutorial.git ~/  
 cd ~/lab-challenge-2-3-techapostle && catkin_make  
-echo "source ~/lab-challenge-2-3-techapostle/devel/setup.bash >> ~/.bashrc"  
+echo "source $HOME/lab-challenge-2-3-techapostle/devel/setup.bash >> ~/.bashrc"  
 echo "export TURTLEBOT3_MODEL=waffle_pi >> ~/.bashrc"  
 ~~~
 
