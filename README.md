@@ -25,7 +25,7 @@ echo "export TURTLEBOT3_MODEL=waffle_pi" >> ~/.bashrc
 
 ~~~
 roscore  
-roslaunchturtlebot3_gazebo turtlebot3_world.launch
+roslaunch turtlebot3_gazebo turtlebot3_world.launch
 ~~~
 
 * If you met following error; [Err] [REST.cc:205] Error in REST requestLibcurl: (51) SSL : no alternative certificate subject name matches target host name ‘api.ignitionfu-el.org’
